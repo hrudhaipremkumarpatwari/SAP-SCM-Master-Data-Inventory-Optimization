@@ -111,6 +111,7 @@ SAP-SCM-Master-Data-Inventory-Optimization/
 |
 |-- README.md
 |-- docs/
+|   |-- SAP_SCM_Week2_Master_Data_Inventory_Optimization_Hrudhai_Final_Reviewed.docx
 |   |-- master-data-project-plan.md
 |   |-- data-mapping-strategy.md
 |   |-- inventory-optimization.md
@@ -123,7 +124,7 @@ SAP-SCM-Master-Data-Inventory-Optimization/
 
 ## Final Report
 
-After the final Word report is uploaded to the `docs/` folder, it will serve as the main internship submission deliverable.
+📄 [**Open the Week 2 Final Report**](docs/SAP_SCM_Week2_Master_Data_Inventory_Optimization_Hrudhai_Final_Reviewed.docx)
 
 ## Learning Outcomes
 
