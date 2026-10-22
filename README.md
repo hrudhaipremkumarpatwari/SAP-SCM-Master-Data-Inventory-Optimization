@@ -124,7 +124,7 @@ SAP-SCM-Master-Data-Inventory-Optimization/
 
 ## Final Report
 
-📄 [**Open the Week 2 Final Report**](docs/SAP_SCM_Week2_Master_Data_Inventory_Optimization_Hrudhai_Final_Reviewed.docx)
+📄 [**Open the Week 2 Final Report**](docs/SAP_SCM_Week2_Master_Data_Inventory_Optimization_Hrudhai_Final.docx)
 
 ## Learning Outcomes
 
@@ -142,3 +142,8 @@ SAP SCM / SAP MM Learner | IT Operations Professional
 ### Academic / Internship Use
 
 This repository is a learning and internship project. Company names, quantities, lead times, costs, inventory values, and results used in the scenario are fictional and are intended only to demonstrate SAP SCM concepts.
+
+
+## Six-Assessment Series
+
+This repository is part of the six-assessment SAP SCM internship series. Each assessment keeps the final Word report and supporting analysis under `docs/`, with editable process diagrams under `diagrams/`. See `docs/assessment-overview.md` for the standardized assessment map.
